@@ -12,3 +12,7 @@ h1 {
 li {
   font-style: italic;
 }
+.class {
+  text-align: italic;
+  font: "Cambria";
+}
