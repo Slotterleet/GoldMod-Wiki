@@ -12,7 +12,7 @@ h1 {
 li {
   font-style: italic;
 }
-.desc {
+p.desc {
   text-align: italic;
   font-family: Cambria, Arial;
 }
