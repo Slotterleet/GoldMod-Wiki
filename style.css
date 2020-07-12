@@ -16,3 +16,6 @@ p.desc {
   font-style: italic;
   font-family: Verdana, Arial;
 }
+h4 {
+  font-weight: lighter;
+}
