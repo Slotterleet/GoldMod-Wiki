@@ -20,6 +20,5 @@ h4 {
   font-weight: lighter;
 }
 table {
-  border-block-start-color: #fff;
-  border-block-end-color: #fff;
+  border: 2px solid white;
 }
